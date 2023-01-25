@@ -1,14 +1,13 @@
 import "./App.css";
 import Logo from "./components/Logo";
 import Footer from "./components/Footer";
-import Diagram from "./components/Diagram";
+
 import Description from "./components/Description";
 
 function App() {
   return (
-    <div className="App flex flex-col h-screen justify-center items-center gap-[3rem] md:justify-center md:gap-10 lg:gap-4">
+    <div className="App flex flex-col h-screen gap-[3rem]  md:gap-10 lg:gap-4 lg:mx-36  ">
       <Logo />
-      <Diagram />
       <Description />
       <Footer />
     </div>
