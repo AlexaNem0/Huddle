@@ -10,7 +10,6 @@ body {
   font-family: Libre Franklin, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding: 0 1rem;
   background-image: url(./assets/images/bg-mobile.svg);
   background-repeat: no-repeat;
   background-color: hsl(257, 40%, 49%);

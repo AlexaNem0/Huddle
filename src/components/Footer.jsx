@@ -4,7 +4,7 @@ import { AiFillTwitterCircle } from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <div className=" flex justify-center lg:justify-end gap-4 mb-4 ">
+    <div className=" flex justify-center lg:justify-end gap-4  ">
       <a
         className="text-white hover:text-[#E882E8]
         hover:translate-y-[-5px]"
